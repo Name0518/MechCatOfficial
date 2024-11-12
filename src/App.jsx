@@ -72,10 +72,10 @@ const cloud3Ref = useRef(null);
         <div className="whyGOD">
           <div className="navbar">
             <div className="elements">
-              <a href = "#header"><img className="logo" src = "src/img/catmech.PNG" width="70" height="66"></img></a>
+              <a href = "#header"><img className="logo" src = "/img/catmech.PNG" width="70" height="66"></img></a>
               <a href = "#header" className="cringe"><p className = "number">19532</p></a>
-              <a href = "https://www.youtube.com/@MechCat-Robotics/featured" target="_blank"><img className="yt" src = "src/img/youtube.png" width="30" height="30"></img></a>
-              <a href = "https://instagram.com/ftcmechcat?igshid=eGtma293NzdsNXpl" target="_blank"><img className="insta" src = "src/img/Instagramlogo.png" width="28" height="28"></img></a>
+              <a href = "https://www.youtube.com/@MechCat-Robotics/featured" target="_blank"><img className="yt" src = "/img/youtube.png" width="30" height="30"></img></a>
+              <a href = "https://instagram.com/ftcmechcat?igshid=eGtma293NzdsNXpl" target="_blank"><img className="insta" src = "/img/Instagramlogo.png" width="28" height="28"></img></a>
             </div>
             
             <div data-aos="fade-up"
@@ -138,10 +138,10 @@ const cloud3Ref = useRef(null);
             <p className="poweredBy">POWERED BY</p>
             <div className="Headerlogos">
               <div className="TDSAB">
-                <img className="TDSB" height={80} src="src/img/TDSAB.png"></img>
+                <img className="TDSB" height={80} src="/img/TDSAB.png"></img>
               </div>
               <div className="bethune">
-                <img className="Bethune" height={83} src="src/img/Bethune.png"></img>
+                <img className="Bethune" height={83} src="/img/Bethune.png"></img>
               </div>
             </div>
           </div>
@@ -214,22 +214,22 @@ const cloud3Ref = useRef(null);
               <div className="sponsor-logos">
                 {/* Repeat this `div` for each sponsor, replacing the `src` with the correct path to the sponsor's logo */}
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="src/img/Sponsors/CenithEnergy.png" alt="Sponsor Logo 1" />
+                  <img src="/img/Sponsors/CenithEnergy.png" alt="Sponsor Logo 1" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="src/img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
+                  <img src="/img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="src/img/Sponsors/Sponsor2.png" alt="Sponsor Logo 3" />
+                  <img src="/img/Sponsors/Sponsor2.png" alt="Sponsor Logo 3" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-down" data-aos-duration="750">
-                  <img src="src/img/Sponsors/Sponsor3.png" alt="Sponsor Logo 4" />
+                  <img src="/img/Sponsors/Sponsor3.png" alt="Sponsor Logo 4" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-down" data-aos-duration="750">
-                  <img src="src/img/:3.png" alt="Sponsor Logo 5" />
+                  <img src="/img/:3.png" alt="Sponsor Logo 5" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-down" data-aos-duration="750">
-                  <img src="src/img/:3.png" alt="Sponsor Logo 6" />
+                  <img src="/img/:3.png" alt="Sponsor Logo 6" />
                 </div>
                 {/* Add more sponsor logos as needed */}
               </div>
@@ -281,14 +281,14 @@ const cloud3Ref = useRef(null);
               <p className="contextus" data-aos="fade-up" data-aos-duration="750">Curious about us or want to contact us?<br /><br /><br />
                 <a href="mailto:ftcmechcat@gmail.com">
                   <div className="icon-text-pair">
-                    <img className="icons" src="src/img/1011335_email_envelope_mail_message_send_icon.png" width="60" height="60" />
+                    <img className="icons" src="/img/1011335_email_envelope_mail_message_send_icon.png" width="60" height="60" />
                     <span className="text">ftcmechcat@gmail.com</span>
                   </div>
                 </a>
               <br />
                 <a href = "https://instagram.com/ftcmechcat?igshid=eGtma293NzdsNXpl" target="_blank">
                 <div className="icon-text-pair">
-                  <img className="icons" src="src/img/734395_instagram_media_online_photo_social_icon.png" width="60" height="60" />
+                  <img className="icons" src="/img/734395_instagram_media_online_photo_social_icon.png" width="60" height="60" />
                   <span className="text">@ftcmechcat</span>
                 </div>
                 </a>
@@ -296,7 +296,7 @@ const cloud3Ref = useRef(null);
 
                 <a href = "https://www.youtube.com/@MechCat-Robotics/featured" target="_blank">
                   <div className="icon-text-pair">
-                    <img className="icons" src="src/img/734362_media_online_social_tube_youtube_icon.png" width="60" height="60" />
+                    <img className="icons" src="/img/734362_media_online_social_tube_youtube_icon.png" width="60" height="60" />
                     <span className="text">@MechCat-Robotics</span>
                   </div>
                 </a>
