@@ -214,13 +214,13 @@ const cloud3Ref = useRef(null);
               <div className="sponsor-logos">
                 {/* Repeat this `div` for each sponsor, replacing the `src` with the correct path to the sponsor's logo */}
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="src/img/Sponsors/CenithEnergy.png" alt="Sponsor Logo 1" />
+                  <img src="/img/Sponsors/CenithEnergy.png" alt="Sponsor Logo 1" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="src/img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
+                  <img src="/img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="src/img/Sponsors/Sponsor2.png" alt="Sponsor Logo 3" />
+                  <img src="/img/Sponsors/Sponsor2.png" alt="Sponsor Logo 3" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-down" data-aos-duration="750">
                   <img src="/img/Sponsors/Sponsor3.png" alt="Sponsor Logo 4" />
@@ -281,7 +281,8 @@ const cloud3Ref = useRef(null);
               <p className="contextus" data-aos="fade-up" data-aos-duration="750">Curious about us or want to contact us?<br /><br /><br />
                 <a href="mailto:ftcmechcat@gmail.com">
                   <div className="icon-text-pair">
-                    <img className="icons" src="/img/1011335_email_envelope_mail_message_send_icon.png" width="60" height="60" />
+                    <img className="icons" src="
+                    /img/1011335_email_envelope_mail_message_send_icon.png" width="60" height="60" />
                     <span className="text">ftcmechcat@gmail.com</span>
                   </div>
                 </a>
