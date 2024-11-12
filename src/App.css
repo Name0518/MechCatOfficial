@@ -540,7 +540,7 @@ z-index: 1;
 }
 
 .cloud1 {
-background-image: url("src/img/cloudtest2.png");
+background-image: url("/MechCatOfficial/src/img/cloudtest2.png"); 
 opacity: 97%;
 left: -9%;
 top: 42rem;
