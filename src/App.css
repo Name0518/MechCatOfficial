@@ -540,7 +540,7 @@ z-index: 1;
 }
 
 .cloud1 {
-background-image: url("img/cloudtest2.png"); 
+background-image: url("/img/cloudtest2.png"); 
 opacity: 97%;
 left: -9%;
 top: 42rem;
@@ -549,7 +549,7 @@ height: 47.9375rem;
 animation: bobble1 6s ease-in-out infinite;
 }
 .cloud2 {
-background-image: url("img/cloud2.png");
+background-image: url("/img/cloud2.png");
 opacity: 92%;
 right: 0;
 top: 72rem;
@@ -559,7 +559,7 @@ animation: bobble3 5s ease-in-out infinite;
 overflow: hidden;
 }
 .cloud3 {
-background-image: url('img/cloud3.png');
+background-image: url('/img/cloud3.png');
 opacity: 96%;
 right: 39%;
 top: 69rem;
