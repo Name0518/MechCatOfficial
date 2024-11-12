@@ -217,19 +217,19 @@ const cloud3Ref = useRef(null);
                   <img src="img/Sponsors/CenithEnergy.png" alt="Sponsor Logo 1" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="/img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
+                  <img src="img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="/img/Sponsors/Sponsor2.png" alt="Sponsor Logo 3" />
+                  <img src="img/Sponsors/Sponsor2.png" alt="Sponsor Logo 3" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-down" data-aos-duration="750">
-                  <img src="/img/Sponsors/Sponsor3.png" alt="Sponsor Logo 4" />
+                  <img src="img/Sponsors/Sponsor3.png" alt="Sponsor Logo 4" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-down" data-aos-duration="750">
-                  <img src="/img/:3.png" alt="Sponsor Logo 5" />
+                  <img src="img/:3.png" alt="Sponsor Logo 5" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-down" data-aos-duration="750">
-                  <img src="/img/:3.png" alt="Sponsor Logo 6" />
+                  <img src="img/:3.png" alt="Sponsor Logo 6" />
                 </div>
                 {/* Add more sponsor logos as needed */}
               </div>
