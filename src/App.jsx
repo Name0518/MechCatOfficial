@@ -217,7 +217,7 @@ const cloud3Ref = useRef(null);
                   <img src="/src/img/Sponsors/CenithEnergy.png" alt="Sponsor Logo 1" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="/img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
+                  <img src="/src/img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
                   <img src="/img/Sponsors/Sponsor2.png" alt="Sponsor Logo 3" />
