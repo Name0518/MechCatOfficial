@@ -214,7 +214,7 @@ const cloud3Ref = useRef(null);
               <div className="sponsor-logos">
                 {/* Repeat this `div` for each sponsor, replacing the `src` with the correct path to the sponsor's logo */}
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
-                  <img src="/Sponsors/CenithEnergy.png" alt="Sponsor Logo 1" />
+                  <img src="Sponsors/CenithEnergy.png" alt="Sponsor Logo 1" />
                 </div>
                 <div className="sponsor-logo" data-aos="flip-up" data-aos-duration="750">
                   <img src="/img/Sponsors/Sponsor1.png" alt="Sponsor Logo 2" />
