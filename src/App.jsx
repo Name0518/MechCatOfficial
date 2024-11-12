@@ -72,7 +72,7 @@ const cloud3Ref = useRef(null);
         <div className="whyGOD">
           <div className="navbar">
             <div className="elements">
-              <a href = "#header"><img className="logo" src = "./img/catmech.PNG" width="70" height="66"></img></a>
+              <a href = "#header"><img className="logo" src = "img/catmech.PNG" width="70" height="66"></img></a>
               <a href = "#header" className="cringe"><p className = "number">19532</p></a>
               <a href = "https://www.youtube.com/@MechCat-Robotics/featured" target="_blank"><img className="yt" src = "./img/youtube.png" width="30" height="30"></img></a>
               <a href = "https://instagram.com/ftcmechcat?igshid=eGtma293NzdsNXpl" target="_blank"><img className="insta" src = "img/Instagramlogo.png" width="28" height="28"></img></a>
