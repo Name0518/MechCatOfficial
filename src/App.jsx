@@ -141,7 +141,7 @@ const cloud3Ref = useRef(null);
                 <img className="TDSB" height={80} src="/img/TDSAB.png"></img>
               </div>
               <div className="bethune">
-                <img className="Bethune" height={83} src="/img/Bethune.png"></img>
+                <img className="Bethune" height={83} src="/src/img/Bethune.png"></img>
               </div>
             </div>
           </div>
